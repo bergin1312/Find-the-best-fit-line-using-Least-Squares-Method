@@ -42,7 +42,8 @@ plt.show()
 
 
 ## Output:
-![262855229-f348e3a4-a8cc-4fd4-bc2e-55c60d1685ab](https://github.com/bergin1312/Find-the-best-fit-line-using-Least-Squares-Method/assets/119404594/810f0b13-d659-473b-badb-a34c5b5f0941)
+
+![262855229-f348e3a4-a8cc-4fd4-bc2e-55c60d1685ab](https://github.com/bergin1312/Find-the-best-fit-line-using-Least-Squares-Method/assets/119404594/b4d33c99-573a-4d73-a5b4-067f3b970bdb)
 
 
 
