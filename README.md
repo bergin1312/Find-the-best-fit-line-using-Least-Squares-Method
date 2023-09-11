@@ -39,7 +39,7 @@ print(Y_pred)
 plt.scatter(X,Y)
 plt.plot(X,Y_pred,color="red")
 plt.show()
-
+```
 
 ## Output:
 
